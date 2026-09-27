@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Apple 04",
+    "slug": "apple-04",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.apple04.demo"
+    },
+    "ios": {
+      "bundleIdentifier": "com.apple04.demo"
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-status-bar"
+    ]
+  }
+}
